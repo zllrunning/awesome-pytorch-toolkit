@@ -3,10 +3,10 @@ A  list of pytorch toolkits for CV application.
 ![](pytorch-logo.png)
 
 ## Contents
-- [Tutorials for PyTorch](#Tutorials for PyTorch)
+- [Tutorials for PyTorch](#Tutorials-for-PyTorch)
 - [Classification](#Classification)
-- [Object detection](#Object detection)
-- [Semantic segmentation](#Semantic segmentation)
+- [Object detection](#Object-detection)
+- [Semantic segmentation](#Semantic-segmentation)
 - [GAN](#GAN)
 - [Face](#Face)
 - [Pose estimation](#Pose estimation)
