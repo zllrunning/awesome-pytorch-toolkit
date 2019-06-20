@@ -13,6 +13,7 @@ A  list of pytorch toolkits for CV application.
 - [Object tracking](#Object-tracking)
 - [Person Reid](#Person-Reid)
 - [Image super-resolution](#Image-super-resolution)
+- [Action understanding](#action-understanding)
 - [Crowd counting](#Crowd-counting)
 - [Image inpainting](#Image-inpainting)
 - [Augmentation](#Augmentation)
@@ -134,7 +135,9 @@ A  list of pytorch toolkits for CV application.
 
 - [xinntao / BasicSR](<https://github.com/xinntao/BasicSR>) : Basic Super-Resolution codes for development. Includes ESRGAN, SFT-GAN for training and testing
 
+## Action understanding
 
+- [open-mmlab / mmaction](https://github.com/open-mmlab/mmaction) : MMAction is an open source toolbox for action understanding based on PyTorch. It is a part of the open-mmlab project developed by Multimedia Laboratory, CUHK.
 
 ## Crowd counting
 
